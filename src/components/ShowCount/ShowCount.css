@@ -1,0 +1,13 @@
+.app {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+ min-height: 90svh;
+  gap: 30px;
+}
+
+.contenedorBotones {
+  display: flex;
+  gap: 20px;
+}

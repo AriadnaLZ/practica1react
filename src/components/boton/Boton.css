@@ -1,0 +1,9 @@
+.boton {
+  background-color: pink;
+  height: 50px;
+  width: 100px;
+  color: black;
+  font-size: 15px;
+  font-weight: bold;
+  cursor: pointer;
+}
